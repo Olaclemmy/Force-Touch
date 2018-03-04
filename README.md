@@ -2,6 +2,12 @@
 
 A simple project for testing a force sensitive resistor. 
 
+### Circuit Example
+
+<div align="center">
+    <img src="https://github.com/milesbowles/Force-Touch/blob/master/example/circuit.jpg" alt="Circuit Example" width="600" height="600"/>
+</div>
+
 ### Demo
 
 <div align="center">
@@ -11,12 +17,6 @@ A simple project for testing a force sensitive resistor.
 <br>
 
 > NOTE: I am applying pressure to the sensor during this demo and varying the pressure to produce the resulting values seen in the output log.  
-
-### Circuit Example
-
-<div align="center">
-    <img src="https://github.com/milesbowles/Force-Touch/blob/master/example/circuit.jpg" alt="Circuit Example" width="600" height="600"/>
-</div>
 
 ### Built With
 * [Arduino Uno](https://www.arduino.cc/) - Microcontroller
