@@ -2,12 +2,6 @@
 
 A simple project for testing a force sensitive resistor. 
 
-### Circuit Example
-
-<div align="center">
-    <img src="https://github.com/milesbowles/Force-Touch/blob/master/example/circuit.jpg" alt="Circuit Example" width="600" height="600"/>
-</div>
-
 ### Demo
 
 <div align="center">
@@ -25,6 +19,6 @@ A simple project for testing a force sensitive resistor.
 
 [Adafruit FSR Docs](https://learn.adafruit.com/force-sensitive-resistor-fsr/using-an-fsr)
 
-> NOTE: I am not using an adafruit FSR for this project. However, I did find there docs very useful.
+> NOTE: I am not using an adafruit FSR for this project. However, I did find their docs very useful.
 
 #### Enjoy!
