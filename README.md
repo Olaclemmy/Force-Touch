@@ -1,6 +1,6 @@
 # Force Touch
 
-A simple project for testing a force sensitive resistor. 
+A simple project for testing a force sensitive resistor (FSR). 
 
 ### Demo
 
